@@ -1,0 +1,19 @@
+# Ignore PyInstaller build and distribution files
+/__pycache__/
+/build/
+/dist/
+/*.spec
+/*.exe
+/__pyinstaller/
+/*.log
+
+# Ignore PyInstaller temporary files
+*.manifest
+*.manifest.bak
+*.wixpdb
+*.wixobj
+*.wxl
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
